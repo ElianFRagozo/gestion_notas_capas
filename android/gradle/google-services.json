@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "214743149642",
+    "project_id": "gestionnotas-be72d",
+    "storage_bucket": "gestionnotas-be72d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214743149642:android:51742099c8450960fb0ab3",
+        "android_client_info": {
+          "package_name": "com.example.gestion_notas_capas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqx7Jhhjv12-usl9aLZscSm_rjGdk3vl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
